@@ -4,6 +4,8 @@ I cut my teeth on BASIC and Pascal in grade school and high school. I currently 
 
 ### More About Me ###
 
+![PhillyMJS at Trinity Site Fence](trinityfence.jpg)
+
 **🖥 Mac admin** • I've been a Mac user since 1991. After being a Tandy 1000 user from 1985, when I got my Macintosh LC it was love at first sight. I've made my living supporting Mac users since 1992.
 
 **☢️ Atomic tourist** • Cold War history fascinates me. I've spent hours touring a Titan ICBM silo and have stood at ground zero of Trinity Site. I have a long list of other places I want to visit.
