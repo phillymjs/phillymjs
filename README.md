@@ -8,7 +8,7 @@ I cut my teeth on BASIC and Pascal in grade school and high school. I currently 
 
 **🖥 Mac admin** • I've been a Mac user since 1991. After being a Tandy 1000 user from 1985, when I got my Macintosh LC it was love at first sight. I've made my living supporting Mac users since 1992.
 
-**☢️ Atomic tourist** • Cold War history fascinates me. I've spent hours touring a Titan ICBM silo and have stood at ground zero of Trinity Site and at the rim of Sedan Crater. I have a long list of other places I want to visit.
+**☢️ Atomic tourist** • Cold War history fascinates me. I've spent hours exploring a Titan ICBM silo in Arizona and have stood at ground zero of Trinity Site in New Mexico and at the rim of Sedan Crater in Nevada. I have a long list of other places I want to visit.
 
 **📖 Avid reader** • Science fiction, alternate history, computer industry history, and Cold War history are my genres of choice, but I also have shelves of Tom Clancy, John Grisham, and Stephen King.
 
