@@ -10,9 +10,9 @@ I cut my teeth on BASIC and Pascal in grade school and high school. I currently 
 
 **☢️ Atomic tourist** • Cold War history fascinates me. I've spent hours [exploring a Titan II ICBM silo](titan_ii_lcc_key.jpg) in Arizona, and I've stood at [ground zero of Trinity Site](trinity_obelisk.jpg) in New Mexico and at the [rim of Sedan Crater](sedan_crater_tour_group.jpg) in Nevada. I have a long list of other places I want to visit.
 
-**📖 Avid reader** • Science fiction, alternate history, computer industry history, and Cold War history are my genres of choice, but I also have shelves of Tom Clancy, John Grisham, and Stephen King.
+**📖 Avid reader** • Science fiction, alternate history, computer/video game industry history, and Cold War history are my genres of choice, but I also have shelves of Tom Clancy, John Grisham, and Stephen King.
 
-**🏃 Less avid runner** • [I lost a lot of weight a few years ago](https://phillymjs.com/weightloss) and so far I've successfully kept off 90% of it. I ran my first 5K in late 2019, and then... pandemic. I tried a "virtual" 5K but the experience was severely lacking. Hoping to get back into it now that in-person races are becoming a thing again.
+**🏃 Less avid runner** • [I lost a lot of weight a few years ago](https://phillymjs.com/weightloss) and so far I've successfully kept off 90% of it. I ran my first 5K in late 2019, and then... pandemic. I tried a "virtual" 5K but the experience was severely lacking. Hoping to get back into it now that in-person races are becoming a thing again. I've done at least an hour of cardio every single day for more than five years. 
 
 **👾 Retro tech fan** • I collect classic computers and video game consoles. My flagship system is the Colecovision because it was the first one I had as a kid. I still have it.
 
