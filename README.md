@@ -1,6 +1,12 @@
 ### Coding Experience ###
 
-I cut my teeth on BASIC and Pascal in grade school and high school. I currently write a lot of Bash scripts and occasional Applescripts, know juuuuust enough Powershell to ask where the bathroom is, and I'm working on learning Python.
+I cut my teeth on BASIC and Pascal in grade school and high school. I currently write a lot of Bash scripts and occasional Applescripts, know juuuuust enough Powershell to ask where the bathroom is, and I dip in and out of trying to learn Python.
+
+### Additional Tech Chops ###
+
+Currently learning Docker and working on redoing my home network infrastructure with all services running in containers.
+
+I love to tinker with Home Assistant. I started off controlling a couple lights, then came up with something so I'd get nagged to remove the clothes when my (dumb) washer and dryer finished their cycles. Most recently I created a couple sensors to read my iCloud calendar in search of "Vacation" or "Company Holiday", to determine if the current day and the next day are workdays. Any weekday I'm off from work, those two sensors prevent some automations from running unnecessarily. I also put a temperature/humidity sensor in every room of my house and studied the collected data to try to make my heating and cooling work more efficiently.
 
 ### More About Me ###
 
