@@ -6,7 +6,7 @@ I cut my teeth on BASIC and Pascal in grade school and high school respectively.
 
 Over the 2024 holidays and the first few months of 2025, I started learning Docker and redid my home network infrastructure with all services running in containers. For the last few months, everything is stable, reasonably well-documented, monitored, and backed up. I just need to get notifications going.
 
-I love to tinker with Home Assistant. I started off controlling a couple lights, then came up with something so I'd get nagged to remove the clothes when my (dumb) washer and dryer finished their cycles. Most recently I created a couple sensors to read my iCloud calendar in search of "Vacation" or "Company Holiday", to determine if the current day and the next day are workdays. Any weekday I'm off from work, those two sensors prevent some automations from running unnecessarily. I also put a temperature/humidity sensor in every room of my house and studied the collected data to try to make my heating and cooling work more efficiently.
+I love to tinker with Home Assistant. I started off controlling a couple lights, then came up with something so I'd get nagged to remove the clothes when my (dumb) washer and dryer finished their cycles. Most recently I created a couple sensors to read my iCloud calendar in search of "Vacation" or "Company Holiday", to determine if the current day and the next day are workdays. Any weekday I'm off from work, those two sensors prevent some automations from running unnecessarily. I also put a temperature/humidity sensor in every room of my house as well as the supply and return ducts of my HVAC system and studied the collected data to try to make my heating and cooling work more efficiently.
 
 ### More About Me ###
 
