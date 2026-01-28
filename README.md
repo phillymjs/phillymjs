@@ -4,7 +4,7 @@ I cut my teeth on BASIC and Pascal in grade school and high school respectively.
 
 ### Additional Tech Chops ###
 
-Over the 2024 holidays and the first few months of 2025, I started learning Docker and redid my home network infrastructure with all services running in containers. For the last few months, everything is stable, reasonably well-documented, monitored, and backed up. I just need to get notifications going.
+Over the 2024 holidays and the first few months of 2025, I started learning Docker and redid my home network infrastructure with all services running in containers. Everything is stable, reasonably well-documented, monitored, and backed up. I still need to get notifications going. I'm constantly evaluating new services for usefulness, most recently looking at using Grocy to track what's in my pantry, and Koillection to catalog my classic video game collection. I also need a good replacement for Delicious Library, a Mac app which I used to catalog my books and DVDs.
 
 I love to tinker with Home Assistant. I started off controlling a couple lights, then came up with something so I'd get nagged to remove the clothes when my (dumb) washer and dryer finished their cycles. Most recently I created a couple sensors to read my iCloud calendar in search of "Vacation" or "Company Holiday", to determine if the current day and the next day are workdays. Any weekday I'm off from work, those two sensors prevent some automations from running unnecessarily. I also put a temperature/humidity sensor in every room of my house as well as the supply and return ducts of my HVAC system and studied the collected data to try to make my heating and cooling work more efficiently.
 
@@ -18,7 +18,7 @@ I love to tinker with Home Assistant. I started off controlling a couple lights,
 
 **📖 Avid reader** • Science fiction, alternate history, computer/video game industry history, and Cold War history are my genres of choice, but I also have shelves of Tom Clancy, John Grisham, and Stephen King.
 
-**🏃 Less avid runner** • [I lost a lot of weight a few years ago](https://phillymjs.com/weightloss) and so far I've successfully kept off 90% of it. I ran my first 5K in late 2019, and then... pandemic. I tried a "virtual" 5K but the experience was severely lacking. Haven't really gotten back into it since in-person races became a thing again. Even if I haven't gotten out and run that much lately, though, I've still done at least an hour of cardio every single day for nearly seven years. 
+**🏃 Less avid runner** • [I lost a lot of weight a few years ago](https://phillymjs.com/weightloss) and so far I've successfully kept off 90% of it. I ran my first 5K in late 2019, and then... pandemic. I tried a "virtual" 5K but the experience was severely lacking. Haven't really gotten back into it since in-person races became a thing again. Even if I haven't gotten out and run that much lately, though, I've still done at least an hour of cardio every single day for more than seven years, racking up almost 20,000 miles.
 
 **👾 Retro tech fan** • I collect classic computers and video game consoles. My flagship system is the Colecovision, because it was the first one I had as a kid. I still have it.
 
